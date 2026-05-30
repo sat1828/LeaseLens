@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Allow: /pricing
+Disallow: /analyze
+Disallow: /result/
+Disallow: /history
+Disallow: /api/
+
+Sitemap: https://leaselens.in/sitemap.xml
